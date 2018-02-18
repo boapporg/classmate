@@ -1,4 +1,5 @@
-Classmate - Mobile Responsive CSS Utility Library
+CLASSMATE - Mobile Responsive CSS Utility Library
+
 Write less and develop faster with Classmate, an easy to use mobile responsive CSS Utility Library
 
 Installation
